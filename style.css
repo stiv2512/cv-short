@@ -12,10 +12,6 @@ body {
 .header {
   margin: 20px 0;
 }
-.header__avatar:hover {
-  color: red;
-  border: 3px solid;
-}
 .header__avatar {
   border-radius: 20%;
   width: 300px;
